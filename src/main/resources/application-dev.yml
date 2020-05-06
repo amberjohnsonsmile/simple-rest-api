@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+
+message: Hello from DEV environment and the current date and time is

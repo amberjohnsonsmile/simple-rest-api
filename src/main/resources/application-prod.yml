@@ -1,0 +1,4 @@
+spring:
+  profiles: prod
+
+message: Hello from PROD environment and the current date and time is

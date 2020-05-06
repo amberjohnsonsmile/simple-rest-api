@@ -1,0 +1,4 @@
+spring:
+  profiles: stage
+
+message: Hello from STAGE environment and the current date and time is
